@@ -1,3 +1,6 @@
+<img width="197" alt="Screenshot 2024-11-02 at 10 42 45 AM" src="https://github.com/user-attachments/assets/f43622f2-28d4-41bb-a829-6976040083a2">
+
+
 Project Title: Movie Poster App for Android
 
 Project Description:
