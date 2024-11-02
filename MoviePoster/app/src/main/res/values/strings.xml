@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoviePoster</string>
+    <string name="add_to_watchlist">Add to Watchlist</string>
+
+    <string name="menu_description">Menu</string>
+    <string name="search_description">Search</string>
+    <string name="search_icon">Search</string>
+
+
+</resources>

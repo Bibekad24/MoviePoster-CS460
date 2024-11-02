@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "44433118052",
+    "firebase_url": "https://swipevideoapp-dbfa7-default-rtdb.firebaseio.com",
+    "project_id": "swipevideoapp-dbfa7",
+    "storage_bucket": "swipevideoapp-dbfa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44433118052:android:34fe0a0870f5c3cf122071",
+        "android_client_info": {
+          "package_name": "com.example.movieposter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFeY2CWzo7jOwNvbN8ivjqvlY2pGDygc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44433118052:android:43018069fb91bc52122071",
+        "android_client_info": {
+          "package_name": "com.example.swipevideoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFeY2CWzo7jOwNvbN8ivjqvlY2pGDygc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
