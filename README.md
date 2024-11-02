@@ -1,4 +1,4 @@
-![Uploading Screenshot 2024-11-02 at 10.42.45 AM.png…]()
+
 
 
 Project Title: Movie Poster App for Android
